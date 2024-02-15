@@ -2,7 +2,7 @@
 
 **Key Functionalities:**
 
-**Data Loading**: The code effectively loads the flights_df dataset containing Dulles International Airport flight information for 2016.
+**Data Loading**: Loads the flights_df dataset containing Dulles International Airport flight information.
 
 **Data Exploration**: Eight insightful questions are formulated to explore factors influencing flight delays.
 
